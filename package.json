@@ -26,6 +26,6 @@
     "cheerio": "1.0.0-rc.2",
     "reqdata": "2.1.0",
     "traverse": "0.6.6",
-    "web-auto-extractor": "https://github.com/devpms/web-auto-extractor.git#master"
+    "web-auto-extractor": "https://github.com/devpms/web-auto-extractor.git#0.3.0-beta"
   }
 }
